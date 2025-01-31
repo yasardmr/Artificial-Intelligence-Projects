@@ -1,0 +1,8 @@
+numpy==1.19.2
+opencv-python==4.5.3.56
+face-recognition-models==0.3.0
+cmake==3.25.0
+dlib==19.19.0
+scipy==1.5.2
+imutils==0.5.4
+pushbullet.py==0.12.0
